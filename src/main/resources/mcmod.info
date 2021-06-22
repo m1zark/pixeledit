@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "pixeledit",
+    "name": "Pixeledit",
+    "description": "Edit Pokemon using items(Scrolls) plus a robust Pokemon Builder",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "m1zark"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
